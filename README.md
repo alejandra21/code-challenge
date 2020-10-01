@@ -18,7 +18,11 @@ I implemented four microservices to solve the problem:
 * A Eureka server that takes care of: “Eureka Server is an application that holds the information about all client-service applications. Every Micro service will register into the Eureka server and Eureka server knows all the client applications running on each port and IP address ”
 * A gateway. It also has security settings to prevent users from accessing the rest of the services without prior identification.
 
-Below is a picture of the services and its connections
+Below is a picture of the services and its connections.
+
+![alt text][logo]
+
+[logo]: https://github.com/alejandra21/code-challenge/blob/main/doc/image.png
 
 My idea is that the gateway is the only microservice that is exposed to users and that the rest are hidden in an internal network.
 
