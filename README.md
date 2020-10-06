@@ -1,4 +1,4 @@
-# CODE CHALLENGE
+# CODING CHALLENGE
 
 This repository contains the instructions for the solution to the problem presented [here]()
 
